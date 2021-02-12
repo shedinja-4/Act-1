@@ -1,0 +1,202 @@
+body {
+	font-family: 'Brush Script MT', cursive;
+}
+.none {
+	display: none;
+}
+.tipo {
+	position: absolute;
+	font-size: 80px;
+	color: #6d2c7d;
+	top: -5%;
+	right: 38%;
+}
+.flot {
+    display: scroll;
+    position: fixed;
+    bottom: 320px;
+    right: 4%;
+    top: 89%;
+}
+.flo1 {
+	height: 50px;
+	width: 50px;
+}
+.A {
+	background-color: lightgreen;
+	position: absolute;
+	left: 3%;
+	top: 5%;
+	height: 600px;
+	width: 900px;
+}
+.A1 {
+	background-color: #6d2c7d;
+	position: absolute;
+	left: 3%;
+	top: 5%;
+	height: 100px;
+	width: 200px;
+	color: white;
+}
+.A2 {
+	background-color: #6d2c7d;
+	position: absolute;
+	left: 40%;
+	top: 5%;
+	height: 100px;
+	width: 200px;
+	color: white;
+}
+.A3 {
+	background-color: #6d2c7d;
+	position: absolute;
+	right: 3%;
+	top: 5%;
+	height: 100px;
+	width: 200px;
+	color: white;
+}
+.A4 {
+	position: absolute;
+	top: 30%;
+	left: 39%;
+	font-size: 40px;
+}
+.A5 {
+	position: absolute;
+	top: 50%;
+	left: 0%;
+	text-align: center;
+}
+.B {
+	background-color: lightgreen;
+	position: absolute;
+	right: 3%;
+	top: 5%;
+	height: 270px;
+	width: 350px;
+}
+.B1 {
+	position: absolute;
+	left: 7%;
+	top: 2%;
+	height: 230px;
+	width: 300px;
+}
+.C {
+	background-color: lightgreen;
+	position: absolute;
+	right: 3%;
+	top: 362px;
+	height: 270px;
+	width: 350px;
+}
+.C1 {
+	background-color: #6d2c7d;
+	position: absolute;
+	left: 3%;
+	top: 5%;
+	height: 50px;
+	width: 100px;
+}
+.C2 {
+	background-color: #6d2c7d;
+	position: absolute;
+	right: 3%;
+	top: 5%;
+	height: 50px;
+	width: 100px;
+}
+.C3 {
+	position: absolute;
+	right: 7%;
+	top: 30%;
+	height: 150px;
+	width: 300px;
+}
+.D {
+	background-color: lightgreen;
+	position: absolute;
+	left: 3%;
+	top: 99%;
+	height: 600px;
+	width: 1270px;
+}
+.D1 {
+	background-color: #6d2c7d;
+	position: absolute;
+	left: 3%;
+	top: 30%;
+	height: 400px;
+	width: 900px;
+}
+.D2 {
+	position: absolute;
+	right: 1%;
+	top: 30%;
+	height: 250px;
+	width: 250px;
+}
+.D3 {
+	position: absolute;
+	right: 35%;
+	top: 55%;
+	height: 150px;
+	width: 300px;
+}
+.Ee {
+	position: absolute;
+	right: 5%;
+	top: 240%;
+}
+.E {
+	background-color: lightgreen;
+	position: absolute;
+	left: 3%;
+	top: 193%;
+	height: 600px;
+	width: 900px;
+}
+.F {
+	background-color: lightgreen;
+	position: absolute;
+	right: 3%;
+	top: 193%;
+	height: 309px;
+	width: 350px;
+}
+.F1 {
+	background-color: #6d2c7d;
+	position: absolute;
+	left: 3%;
+	top: 30%;
+	height: 400px;
+	width: 844px;
+}
+.F2 {
+	position: absolute;
+	top: 10%;
+	left: 27%;
+	width: 400px;
+}
+.F3 {
+	position: absolute;
+	top: 65%;
+}
+.C1a {
+	background-color: lightgreen;
+	position: absolute;
+	left: 3%;
+	top: 5%;
+	height: 50px;
+	width: 100px;
+}
+.C2a {
+	background-color: lightgreen;
+	position: absolute;
+	right: 3%;
+	top: 5%;
+	height: 50px;
+	width: 100px;
+}
